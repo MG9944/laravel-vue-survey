@@ -11,6 +11,8 @@
         <td>
             <a href="https://tailwindcss.com/"><img src="https://i.imgur.com/wdYXsgR.png" /></a>
         </td>
+           <td>
+        </td>
     </tr>
 </table> 
 
