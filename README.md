@@ -19,22 +19,12 @@
 You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
 
 
-## Installation
 
-#### Backend
-1. Clone the project
-2. Go to the project root directory
-3. Run `composer install`
-4. Create database
-5. Copy `.env.example` into `.env` file and adjust parameters
-6. Run `php artisan serve` to start the project at http://localhost:8000
+## Work in progress
+Ability to see the responses to the survey
+Creating graphs for surveys
 
-#### Frontend
-1. Navigate to `vue` folder using terminal
-2. Run `npm install` to install vue.js project dependencies
-3. Copy `vue/.env.example` into `vue/.env` and specify API URL
-4. Start frontend by running `npm run dev`
-5. Open http://localhost:3000
+
 
 
 <img width="959" alt="h1" src="https://user-images.githubusercontent.com/94039553/161499822-86c2278c-95d8-4318-8ded-c07da3befa4b.png">
