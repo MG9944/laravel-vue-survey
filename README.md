@@ -21,8 +21,8 @@ You need to have PHP version **8.0** or above. Node.js version **12.0** or above
 
 
 ## Work in progress
-Ability to see the responses to the survey.
-Creating graphs for surveys.
+* Ability to see the responses to the survey.
+* Creating graphs for surveys.
 
 
 
